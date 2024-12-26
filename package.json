@@ -1,1 +1,10 @@
-
+{
+  "name": "donkey-kong-clone",
+  "version": "1.0.0",
+  "description": "A simple Donkey Kong style platform game built with Phaser 3",
+  "scripts": {
+    "start": "http-server -o"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
